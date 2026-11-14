@@ -11,7 +11,8 @@
 //     steaming bowl of tonkotsu ramen on a wooden counter inside a real
 //     ramen restaurant does that work: chopsticks lifting a tall glossy
 //     noodle pull from rich broth, wisps of steam rising, paper lanterns
-//     glowing warm behind, a soft-boiled egg with a dripping yolk,
+//     glowing warm behind, other customers eating their own bowls in the
+//     soft-blurred background, a soft-boiled egg with a dripping yolk,
 //     charred chashu, nori, menma, narutomaki, green onions, sesame and
 //     chili oil — every topping a real ramen shop serves, nothing missing.
 //   - The food looks fresh and real, with texture you can almost taste:
