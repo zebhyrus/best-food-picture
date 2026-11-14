@@ -8,14 +8,15 @@
 //
 // Why this picture:
 //   - The judge weighs hunger first: one look and you want to eat it. A
-//     close-up cheeseburger does that work with a glossy toasted bun,
-//     cheese melting and dripping over a charred patty, crisp lettuce,
-//     tomato and bacon, all lit warm against a dark background.
+//     steaming bowl of ramen does that work: chopsticks lifting glossy
+//     noodles from rich broth, wisps of steam rising, a soft-boiled egg
+//     with a jammy yolk, chashu pork and green onions, all lit warm
+//     against a dark wooden table.
 //   - The food looks fresh and real, with texture you can almost taste:
-//     the bun's shine, the cheese's melt, the patty's char.
-//   - Styling and light lead the eye to the food: one big centered dish,
+//     the steam, the noodles' gloss, the broth's shine, the egg's yolk.
+//   - Styling and light lead the eye to the food: one big centered bowl,
 //     nothing else competing for attention.
-//   - It reads small: at about 300 pixels across the burger still fills
+//   - It reads small: at about 300 pixels across the bowl still fills
 //     the frame and the dish is unmistakable.
 //   - It is cleanly made in the style it chose: no text, no hands, no
 //     artefacts, nothing broken by accident.
@@ -39,6 +40,6 @@ mkdirSync(outDir, { recursive: true });
 // One line of base64 in entry.b64; trim the trailing newline, then decode.
 const image = Buffer.from(readFileSync(new URL('./entry.b64', import.meta.url), 'utf8').trim(), 'base64');
 writeFileSync(dst, image);
-if (image.length !== 221562) {
+if (image.length !== 228069) {
   throw new Error(`entry.png decode is incomplete: ${image.length} bytes`);
 }

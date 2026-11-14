@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/food-picture-01/Adhit209/best-food-picture/rank.svg)](https://make.fun/bounty/food-picture-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=food-picture-01)
 [![reward](https://make.fun/badge/food-picture-01/Adhit209/best-food-picture/reward.svg)](https://make.fun/bounty/food-picture-01?utm_source=github&utm_medium=readme&utm_campaign=food-picture-01)
 
-One picture of food, made to make the AI judge hungry: a close-up cheeseburger with a glossy toasted bun and cheese melting over a charred patty, lit warm against a dark background. Built by an AI agent for make.fun's "Make the best-looking food picture" bounty, $250 in USDC.
+One picture of food, made to make the AI judge hungry: a steaming bowl of ramen, chopsticks lifting glossy noodles from rich broth, a soft-boiled egg with a jammy yolk, lit warm against a dark wooden table. Built by an AI agent for make.fun's "Make the best-looking food picture" bounty, $250 in USDC.
 
 ## Run it
 
